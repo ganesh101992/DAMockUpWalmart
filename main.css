@@ -84,7 +84,6 @@ header > div {
 .products-container {
 	border-top: 1px solid lightgrey;
 	padding: .5rem 1.5rem;
-	//display: flex;
 }
 .products-container .filters {
 	width: 20%;
@@ -94,9 +93,8 @@ header > div {
 	padding: .5rem 1rem;
 	float: left;
 	margin-right: 1.5em;
-	
 	position: sticky;
-    top: 132px;
+	top: 132px;
 	height: calc(100% - 132px);
 }
 .products-container .filters > div {
